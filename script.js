@@ -23,11 +23,7 @@ function handleOnClick(){
 }
 
 todoListElement.addEventListener("click",function(e){
-    if(e.target.tagName === "h3"){
-        e.target.classList.toggle("checked");
-        saveData();
-    }
-    else if(e.target.tagName === "SPAN"){
+    if(e.target.tagName === "SPAN"){
         e.target.parentElement.remove();
         saveData();
     }
