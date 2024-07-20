@@ -77,7 +77,32 @@ span{
 span:hover{
     background: #edeef0;
 }
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+    .box {
+        width: 80%;
+        margin-top: 20%;
+    }
+    #todo-input {
+        width: 70%;
+    }
+    #add-btn {
+        padding: 10px;
+    }
+}
 
+@media (max-width: 480px) {
+    .box {
+        width: 90%;
+        margin-top: 25%;
+    }
+    #todo-input {
+        width: 65%;
+    }
+    #add-btn {
+        padding: 8px;
+    }
+}
 
 
 
