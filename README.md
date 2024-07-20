@@ -7,3 +7,5 @@ Project - Todo-List
 - You can also delete the task.
 - The browser stores the list you created or deleted in the form of data.
 - Whenever you close and reopen the todo-list, you will see your saved list as it is.
+
+  Check out website here - https://saniya-mulla03.github.io/Todo-List/
