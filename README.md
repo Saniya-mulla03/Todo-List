@@ -6,4 +6,4 @@ Project - Todo-List
 - You can add as much tasks you want.
 - You can also delete the task.
 - The browser stores the list you created or deleted in the form of data.
-- Whenever you close and reopen the browser it will show your performed actions.
+- Whenever you close and reopen the todo-list, you will see your saved list as it is.
